@@ -2,3 +2,6 @@ This is the new feature file:
 - Read stuff
 - Edit stuff
 Have fun!
+
+======================================================================
+This is the second version of this file.
